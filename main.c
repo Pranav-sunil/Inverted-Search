@@ -4,10 +4,10 @@
 	Name of author   :    Pranav S
 	Project Name     :    Inverted Search
 	Description      :	  The project is to create database of words in the text files 
-						  passed via command line using hash tables. The databse created 
+						  passed via command line using hash tables. The database created 
 						  will have information about in how many files the word appears 
 						  and how many times it occurs in each file. The data base can also 
-						  be saved to a textfile, which can be used to re-create the 
+						  be saved to a text file, which can be used to re-create the 
 						  database.
 
 	Usage			 :    ./a.out <file1.txt> <file2.txt> <file3.txt>
